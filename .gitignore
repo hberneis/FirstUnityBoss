@@ -73,3 +73,325 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ProjectSettings/EditorBuildSettings.asset
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+Assets/Spikes.mat.meta
+Assets/Spikes.mat
+Assets/Settings/Playground.unity.meta
+Assets/Settings/Playground.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/SampleScene.unity
+Assets/Scenes/BossScene.unity.meta
+Assets/Scenes/BossScene.unity
+Assets/RedDragon 1.2/Demo/RedDragon1.2/ReflectionProbe-0.exr.meta
+Assets/RedDragon 1.2/Demo/RedDragon1.2/ReflectionProbe-0.exr
+Assets/RedDragon 1.2/Demo/RedDragon1.2/LightingData.asset.meta
+Assets/RedDragon 1.2/Demo/RedDragon1.2/LightingData.asset
+Assets/RedDragon 1.2/Demo/RedDragon1.2.meta
+Assets/RedDragon 1.2/Assets/Materials/PlaneColour.mat
+Assets/RedDragon 1.2/Assets/Materials/Dragon.mat
+Assets/RedDragon 1.2/Assets/Materials/BlackWyvern.mat
+Assets/New Terrain.asset
+Assets/New Terrain 1.asset.meta
+Assets/New Terrain 1.asset
+Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Stone.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Star.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Snowflake.mat
+Assets/Hovl Studio/Magic effects pack/Materials/SmokeFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Smoke26.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Slash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/ProjectileFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Point.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Mask1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Heart.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient.mat
+Assets/Hovl Studio/Magic effects pack/Materials/GlowFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CrystalFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CraterFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat
+Assets/Grass.mat.meta
+Assets/Grass.mat
+Assets/Free/Stones/Textures/stones_normal.png.meta
+Assets/Free/Stones/Textures/stones_normal.png
+Assets/Free/Stones/Textures/stones_metalness_smoothness.tga.meta
+Assets/Free/Stones/Textures/stones_metalness_smoothness.tga
+Assets/Free/Stones/Textures/stones_color.png.meta
+Assets/Free/Stones/Textures/stones_color.png
+Assets/Free/Stones/Textures.meta
+Assets/Free/Stones/Mesh/Stone_5.fbx.meta
+Assets/Free/Stones/Mesh/Stone_5.fbx
+Assets/Free/Stones/Mesh/Stone_4.fbx.meta
+Assets/Free/Stones/Mesh/Stone_4.fbx
+Assets/Free/Stones/Mesh/Stone_3.fbx.meta
+Assets/Free/Stones/Mesh/Stone_3.fbx
+Assets/Free/Stones/Mesh/Stone_2.fbx.meta
+Assets/Free/Stones/Mesh/Stone_2.fbx
+Assets/Free/Stones/Mesh/Stone_1.fbx.meta
+Assets/Free/Stones/Mesh/Stone_1.fbx
+Assets/Free/Stones/Mesh.meta
+Assets/Free/Stones/Materials/Stones.mat.meta
+Assets/Free/Stones/Materials/Stones.mat
+Assets/Free/Stones/Materials.meta
+Assets/Free/Stones.meta
+Assets/Free.meta
+Assets/Free medieval weapons/Materials/Wooden Bow_1_Wooden Bow_1_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_low_Swords_OH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_DH_low_Sword_DH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/OneSided_Axes_low_Axes_OS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/DoubleSided_Axes_low_Axes_DS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Arrows_Arrows_AlbedoTransparency.mat
+Assets/Floor.mat.meta
+Assets/Floor.mat
+Assets/DragonScript.cs.meta
+Assets/DragonScript.cs
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/GroundPatchCracked01.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground005.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_S.png
+ProjectSettings/EditorBuildSettings.asset
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/SampleScene.unity
+Assets/RedDragon 1.2/Assets/Materials/PlaneColour.mat
+Assets/RedDragon 1.2/Assets/Materials/Dragon.mat
+Assets/RedDragon 1.2/Assets/Materials/BlackWyvern.mat
+Assets/New Terrain.asset
+Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Stone.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Star.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Snowflake.mat
+Assets/Hovl Studio/Magic effects pack/Materials/SmokeFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Smoke26.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Slash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/ProjectileFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Point.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Mask1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Heart.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient.mat
+Assets/Hovl Studio/Magic effects pack/Materials/GlowFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CrystalFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CraterFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat
+Assets/Free medieval weapons/Materials/Wooden Bow_1_Wooden Bow_1_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_low_Swords_OH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_DH_low_Sword_DH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/OneSided_Axes_low_Axes_OS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/DoubleSided_Axes_low_Axes_DS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Arrows_Arrows_AlbedoTransparency.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_H.png
+ProjectSettings/EditorBuildSettings.asset
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity.meta
+Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+Assets/Scenes/SampleScene.unity.meta
+Assets/Scenes/SampleScene.unity
+Assets/RedDragon 1.2/Assets/Materials/PlaneColour.mat
+Assets/RedDragon 1.2/Assets/Materials/Dragon.mat
+Assets/RedDragon 1.2/Assets/Materials/BlackWyvern.mat
+Assets/New Terrain.asset
+Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Stone.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Star.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Snowflake.mat
+Assets/Hovl Studio/Magic effects pack/Materials/SmokeFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Smoke26.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Slash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/ProjectileFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Point.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Mask1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Heart.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient.mat
+Assets/Hovl Studio/Magic effects pack/Materials/GlowFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CrystalFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CraterFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat
+Assets/Free medieval weapons/Materials/Wooden Bow_1_Wooden Bow_1_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_low_Swords_OH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_DH_low_Sword_DH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/OneSided_Axes_low_Axes_OS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/DoubleSided_Axes_low_Axes_DS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Arrows_Arrows_AlbedoTransparency.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground004.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground003.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002.tif.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground002.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_S.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_S.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_N.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_mask.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_mask.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_H.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_H.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_AO.png.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001_AO.png
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground004.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground005.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground006.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Sky.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Sky.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Old.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Old.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Standart.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Terrain_Standart.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Library.unity
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Library.unity.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Scene.unity
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/Scene.unity.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Scenes/TerrainDATA/Terrain.asset.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground001.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground001.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground002.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground002.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground003.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground003.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground004.terrainlayer
+Assets/ALP_Assets.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground001.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground002.mat.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Materials/Ground003.mat
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground004.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground005.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground005.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground006.terrainlayer
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Terrain Layers/Ground006.terrainlayer.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures.meta
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif
+Assets/ALP_Assets/Realistic Terrain Textures Lite/Textures/Ground001.tif.meta
+Assets/Free medieval weapons/Materials/Arrows_Arrows_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/DoubleSided_Axes_low_Axes_DS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/OneSided_Axes_low_Axes_OS_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_DH_low_Sword_DH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Swords_low_Swords_OH_AlbedoTransparency.mat
+Assets/Free medieval weapons/Materials/Wooden Bow_1_Wooden Bow_1_AlbedoTransparency.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CraterFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/CrystalFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/FlashFree3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat
